@@ -36,7 +36,7 @@ inverted_index_doc: hadoop jar inverted_index_doc.jar doc.distinct.wc.DocWordCou
 
 Problem d:
 
-inverted_index_wc: hadoop jar inverted_index_wc.jar inverted.index.wc.Inverted_Index_wc [input_file_path] [output_file_path]
+inverted_index_wc: hadoop jar inverted_index_wc.jar inverted.index.wc.InvertedIndexWC [input_file_path] [output_file_path]
 
 
 Bonus:
